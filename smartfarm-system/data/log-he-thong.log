@@ -1,0 +1,19 @@
+2026-10-12 08:00:03 [INFO] sensor-01 Heartbeat OK
+2026-10-12 08:05:41 [INFO] sensor-02 Heartbeat OK
+2026-10-12 08:15:01 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 08:22:17 [INFO] sensor-04 Heartbeat OK
+2026-10-12 08:40:09 [WARNING] sensor-05 Soil moisture reading unstable
+2026-10-12 09:02:55 [CRITICAL] sensor-07 Battery below 5 percent
+2026-10-12 09:30:12 [INFO] sensor-01 Heartbeat OK
+2026-10-12 10:11:48 [ERROR] sensor-02 Packet loss over 40 percent
+2026-10-12 11:05:30 [INFO] sensor-06 Heartbeat OK
+2026-10-12 12:47:26 [WARNING] sensor-03 Signal strength low
+2026-10-12 13:20:14 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 14:09:37 [INFO] sensor-04 Heartbeat OK
+2026-10-12 14:55:02 [CRITICAL] sensor-03 Lost connection to gateway
+2026-10-12 15:33:19 [ERROR] sensor-05 Humidity sensor read failure
+2026-10-12 16:01:44 [INFO] sensor-02 Heartbeat OK
+2026-10-12 16:42:08 [CRITICAL] sensor-03 Connection TIMEOUT after 60s
+2026-10-12 17:15:50 [WARNING] sensor-06 Temperature above threshold
+2026-10-12 17:40:22 [ERROR] sensor-06 Temperature sensor read failure
+2026-10-12 17:58:31 [INFO] sensor-01 Heartbeat OK
